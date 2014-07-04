@@ -1,0 +1,8373 @@
+[
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 61.68,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 94.43,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 78.26,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 84.57,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 19.73,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 44.18,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 12.90,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 66.10,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 97.43,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 92.32,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 65.58,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 21.12,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 96.54,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 42.31,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 91.64,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 40.56,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 14.96,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 85.29,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 55.11,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 82.53,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 53.65,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 91.88,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 94.05,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 86.97,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 43.60,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 93.35,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 68.05,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 80.68,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 13.10,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 27.68,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 32.96,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 38.20,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 5.57,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 20.89,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 14.47,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 80.27,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 55.13,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 86.11,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 33.90,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 2.57,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 7.55,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 34.22,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 78.81,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 3.41,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 57.62,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 8.32,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 59.44,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 84.15,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 14.30,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 44.65,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 16.75,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 46.06,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 8.07,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 5.94,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 13.03,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 54.58,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 6.65,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 31.32,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 19.06,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 86.86,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 72.21,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 64.25,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.11,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.85,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.96,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.69,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.99,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.13,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.20,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.07,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.04,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.07,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.04,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.89,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.40,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.24,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.72,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.30,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.06,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.01,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 1.82,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.63,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.26,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.04,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.11,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 2.79,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 50.95,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 91.76,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 74.89,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 78.25,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 20.59,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 41.43,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 11.39,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 58.95,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 97.25,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 90.75,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 54.64,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 15.59,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 96.38,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 34.96,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 88.95,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 35.20,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 7.06,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 83.17,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 53.39,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 77.50,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 44.34,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 89.85,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 93.66,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 84.11,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 40.32,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 90.87,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 68.12,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 73.99,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 7.50,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 16.71,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 25.30,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 71.08,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 96.21,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 81.69,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 87.36,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 16.18,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 40.77,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 12.88,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 72.17,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 96.68,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 93.21,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 70.12,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 20.97,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 97.44,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 35.05,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 94.35,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 38.45,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 22.54,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 86.63,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 50.27,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 82.71,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 59.15,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 92.26,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 96.77,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 86.16,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 43.11,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 95.03,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 64.84,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 84.62,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 15.88,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 24.75,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 28.43,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 85.86,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 96.19,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 81.38,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 95.43,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 23.52,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 61.84,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 13.85,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 83.21,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 98.59,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 94.32,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 87.76,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 69.40,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 94.57,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 66.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 96.52,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 56.95,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 20.37,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 86.85,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 59.01,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 95.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 68.99,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 97.08,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 87.89,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 97.13,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 66.81,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 96.31,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 72.42,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 90.68,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 22.16,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 65.30,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 56.75,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 99.74,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 99.61,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 85.79,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 100.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 11.42,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 70.39,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 19.21,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 92.11,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 100.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 98.51,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 94.88,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 92.31,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 99.47,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 89.74,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 96.68,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 60.52,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 30.59,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 92.37,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 93.64,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 95.30,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 86.53,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 98.39,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 90.90,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 100.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 70.42,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 100.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 90.95,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 95.88,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 52.15,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 84.08,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 69.97,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 99.63,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 100.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 94.50,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 94.91,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 42.63,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 69.34,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 52.08,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 100.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 100.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 99.29,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 99.20,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 100.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 89.93,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 78.93,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 99.09,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 80.92,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 47.94,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 90.74,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 100.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 97.66,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 79.78,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 99.45,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 98.17,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 100.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 88.60,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 96.96,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 85.86,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 98.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 58.71,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 89.31,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "yes",
+		"value": 86.75,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 49.05,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 8.24,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 23.82,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 20.61,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 79.41,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 57.97,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 87.94,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 41.05,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 2.75,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 9.25,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 45.36,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 84.41,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 3.62,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 65.04,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 11.05,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 64.80,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 92.04,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 16.67,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 46.61,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 22.06,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 55.41,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 10.15,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 6.34,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 15.89,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 56.93,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 9.13,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 30.71,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 26.01,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 92.50,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 83.29,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 70.71,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 28.65,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 3.79,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 18.31,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 11.34,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 83.82,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 58.30,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 85.40,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 27.83,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 3.32,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 6.38,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 29.53,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 78.75,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 2.42,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 64.95,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 5.65,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 61.55,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 76.11,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 12.75,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 48.93,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 16.42,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 40.52,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 7.53,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 3.23,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 13.84,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 56.89,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 4.97,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 35.16,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 14.84,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 84.12,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 75.10,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 70.11,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 13.78,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 3.81,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 17.62,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 4.57,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 76.48,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 37.63,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 85.61,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 16.79,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 1.41,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 5.68,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 11.61,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 30.60,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 5.43,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 33.57,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 3.18,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 43.05,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 79.63,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 12.49,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 40.99,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 3.95,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 30.54,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 2.92,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 12.11,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 2.87,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 32.75,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 3.69,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 27.58,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 8.81,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 77.58,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 34.38,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 41.28,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.26,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.39,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 12.73,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 88.58,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 29.26,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 78.16,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 7.89,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 1.49,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 5.12,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 7.69,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.53,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 10.26,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 3.32,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 39.48,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 69.41,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 7.63,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 6.36,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 2.11,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 13.47,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 1.61,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 8.33,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 28.39,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 9.05,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 4.12,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 47.85,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 15.92,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 27.09,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.37,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 5.50,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 5.09,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 57.37,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 30.66,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 47.92,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.71,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.80,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 10.07,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 21.07,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.91,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 19.08,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 52.06,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 9.26,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 2.34,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 20.22,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.55,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 1.83,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 11.40,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 3.04,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 14.14,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 2.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 41.29,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 10.69,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "no",
+		"value": 12.26,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 1.29,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 1.14,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.60,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.67,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.90,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.16,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.44,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.24,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 2.75,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 1.17,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "s10_19",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 3.99,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.27,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 1.31,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.93,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 1.72,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.42,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.36,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.28,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.14,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 1.35,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.62,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.80,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.88,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.33,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.21,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.54,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.15,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "m20_49",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 1.46,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.35,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 1.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.54,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.54,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.63,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.43,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.29,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.66,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 1.05,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.47,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.43,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.51,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.26,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.32,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "l50_249",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 1.98,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 1.48,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.34,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 2.63,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 2.59,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.77,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 1.19,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "xl250_499",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 2.94,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "xxl_250plus",
+		"breakdown2": "total",
+		"breakdown3": "dk_na",
+		"value": 0.99,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 69.03,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 61.39,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 53.29,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 96.79,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 91.30,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 98.17,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 84.41,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 71.35,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 81.75,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 16.73,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 9.59,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 17.19,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 11.55,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 16.93,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 40.97,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 46.12,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 49.72,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 31.33,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 61.19,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 61.14,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 85.09,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 10.66,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 13.02,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 14.62,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 70.16,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 61.49,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 68.45,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 25.88,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 23.27,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 15.57,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 69.43,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 67.71,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 66.53,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 97.13,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 98.01,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 95.85,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 96.95,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 97.85,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 78.37,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 87.23,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 83.45,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 82.45,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 98.34,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 95.97,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 95.16,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 51.65,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 36.21,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 65.71,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 96.81,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 89.07,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 85.52,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 15.76,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 5.14,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 35.26,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 86.60,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 84.17,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 87.59,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 46.18,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 36.90,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 41.78,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 51.30,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 55.41,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 58.34,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 82.25,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 76.66,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 95.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 74.41,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 49.41,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 45.74,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 92.69,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 91.49,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 91.44,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 97.67,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 95.07,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 87.62,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 94.39,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 86.74,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 74.32,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 81.17,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 74.33,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 90.53,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 97.16,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 88.26,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 97.74,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 52.74,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 36.53,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 36.56,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 30.94,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 29.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 21.18,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "yes",
+		"value": 35.76,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "yes",
+		"value": 29.37,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "yes",
+		"value": 39.93,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 30.69,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 38.53,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 46.71,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 3.21,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 8.70,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 1.83,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 15.24,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 26.95,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 18.25,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 83.13,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 90.41,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 82.81,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 88.45,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 83.07,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 59.03,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 52.73,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 49.83,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 68.39,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 38.81,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 38.50,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 14.91,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 88.27,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 86.43,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 83.74,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 29.84,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 38.51,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 31.55,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 74.12,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 76.57,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 84.43,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 30.57,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 31.93,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 31.05,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 2.87,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 1.99,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 4.15,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 3.05,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 2.15,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 21.15,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 11.16,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 16.55,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 15.64,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 1.66,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 3.93,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 4.84,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 48.35,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 63.69,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 34.29,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 3.19,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 10.93,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 14.30,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 84.24,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 93.90,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 62.64,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 13.13,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 15.27,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 12.41,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 53.82,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 63.10,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 58.22,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 48.70,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 44.13,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 41.66,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 16.92,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 22.84,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 3.94,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 25.59,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 50.45,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 53.51,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 7.31,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 8.51,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 8.35,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 2.33,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 4.91,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 12.38,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 5.61,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 13.26,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 25.68,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 18.83,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 25.31,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 9.19,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 2.84,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 11.74,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 2.26,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 44.64,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 61.56,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 63.25,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 68.96,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 70.81,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 78.82,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "no",
+		"value": 61.82,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "no",
+		"value": 68.41,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "no",
+		"value": 55.66,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.28,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.08,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "AT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.35,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 1.71,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "BG",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.14,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CH",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CY",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 1.15,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.46,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "CZ",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.27,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.36,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 1.07,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.55,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "DK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 1.63,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.16,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "EL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.36,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "ES",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 2.42,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "FR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.48,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 1.61,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 1.91,
+		"Notes": ""
+	},
+	{
+	
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.10,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "HU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.10,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "IT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.18,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.96,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 2.10,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.27,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.55,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LU",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "LV",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.45,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "MT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.83,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.51,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 1.06,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.14,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "NO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.75,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PL",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.21,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.02,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "PT",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "RO",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.36,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SE",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.28,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SI",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 2.62,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 1.91,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "SK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.19,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 0.10,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 0.19,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "TR",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 0.00,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "production",
+		"breakdown3": "dk_na",
+		"value": 2.42,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "private",
+		"breakdown3": "dk_na",
+		"value": 2.22,
+		"Notes": ""
+	},
+	{
+		"Year": 2009,
+		"Country": "UK",
+		"Variable": "mm1501",
+		"breakdown1": "total",
+		"breakdown2": "public",
+		"breakdown3": "dk_na",
+		"value": 4.41,
+		"Notes": ""
+	}
+]

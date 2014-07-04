@@ -1,0 +1,113 @@
+<?php
+
+function osha_esener_api() {
+	$api = array(
+		'api' => 2
+	);
+	return $api;
+}
+
+function osha_esener_menu() {
+	$items['osha_esener-charts'] = array(
+		'title' => 'Example High',
+		'page callback' => 'osha_esener_page',
+		'access arguments' => array('access content'),
+		'access callback' => TRUE,
+		'type' => MENU_CALLBACK,
+	);
+
+	return $items;
+}
+
+function _taxonomy_get_real_tree($vid){
+	$result_tree = array();
+	$terms = array();
+	foreach(taxonomy_get_tree($vid) as $term){
+		if(isset($terms[$term->tid])) {
+			$term->children = $terms[$term->tid]->children;
+			$terms[$term->tid] = $term;
+		} else {
+			$terms[$term->tid] = $term;
+		}
+		if($term->depth === 0) {
+			$result_tree[$term->tid] = &$terms[$term->tid];
+			continue;
+		}
+		foreach($term->parents as $tid){
+			if($tid) {
+				if(!isset($terms[$tid])){
+					$terms[$tid] = new stdClass();
+				}
+				$terms[$tid]->children[$term->tid] = &$terms[$term->tid];
+			}
+		}
+	}
+	return $result_tree;
+}
+
+function filter_tree($tree) {
+
+	// Categories
+	foreach($tree as $key => $value) {
+		$tree[$value->name] = $tree[$key];
+
+		$term = taxonomy_term_load($value->tid);
+
+		$new_term = [];
+		$new_term['code'] = $term->field_code['und'][0]['value'];
+		if(property_exists($value, 'children')) {
+			$new_term['children'] = filter_tree($value->children);
+		}
+
+		$tree[$value->name] = $new_term;
+
+		unset($tree[$key]);
+	}
+	return $tree;
+}
+
+function regenJSON() {
+	// Taxonomy grabber
+	$vocabulary = taxonomy_vocabulary_machine_name_load('osha_esener');
+	$tree = filter_tree(_taxonomy_get_real_tree($vocabulary->vid));
+
+	file_put_contents(drupal_get_path('module', 'osha_esener') . 'json/taxonomy.json', json_encode($tree));
+}
+
+function osha_esener_taxonomy_term_insert() {
+	regenJSON();
+}
+
+function osha_esener_taxonomy_term_update() {
+	regenJSON();
+}
+
+function osha_esener_taxonomy_term_delete() {
+	regenJSON();
+}
+
+function osha_esener_page() {
+	drupal_add_js(drupal_get_path('module', 'osha_esener') . '/js/extern/jquery-2.1.1.min.js');
+	drupal_add_js(drupal_get_path('module', 'osha_esener') . '/js/extern/jquery-ui.min.js');
+	drupal_add_css(drupal_get_path('module', 'osha_esener') . '/css/extern/jquery-ui.css');
+	drupal_add_js(drupal_get_path('module', 'osha_esener') . '/js/extern/underscore-min.js');
+	drupal_add_js(drupal_get_path('module', 'osha_esener') . '/js/extern/highmaps.js');
+	drupal_add_js(drupal_get_path('module', 'osha_esener') . '/js/extern/exporting.js');
+	drupal_add_js(drupal_get_path('module', 'osha_esener') . '/js/extern/data.js');
+	drupal_add_js(drupal_get_path('module', 'osha_esener') . '/js/extern/europe.js');
+
+	$params = array(
+		'path' => drupal_get_path('module', 'osha_esener'),
+	);
+
+	drupal_add_js(array('osha_esener' => $params), 'setting');
+	drupal_add_js(drupal_get_path('module', 'osha_esener') . '/js/main.js');
+	drupal_add_css(drupal_get_path('module', 'osha_esener') . '/css/main.css');
+	drupal_add_js(drupal_get_path('module', 'osha_esener') . '/js/map_template.js');
+	drupal_add_js(drupal_get_path('module', 'osha_esener') . '/js/bar_template.js');
+
+	$vars['scripts'] = drupal_get_js();
+
+	return file_get_contents(drupal_get_path('module', 'osha_esener') . '/content.php');
+
+}
